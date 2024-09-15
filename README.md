@@ -19,8 +19,10 @@
   <img src="https://www.typescriptlang.org/favicon.ico" width="16" height="16" align="center"> Typescript
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.python.org/favicon.ico" width="16" height="16" align="center"> Node.JS
+  <img src="https://nodejs.org/static/images/favicons/favicon.png" width="16" height="16" align="center"> Node.JS  
+  <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.python.org/favicon.ico" width="16" height="16" align="center"> Python
 </p>
 <h1>📊 Github stats</h1>
 <p>
