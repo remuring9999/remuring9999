@@ -25,7 +25,7 @@
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=remuring9999&show_icons=true&theme=material-palenight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remuring9999&hide_border=true&langs_count=10&theme=material-palenight&layout=compact" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remuring9999&langs_count=10&layout=compact&theme=material-palenight" /><br>
 </p>
 <h1>☕ Cappuccino</h1>
 <p>
