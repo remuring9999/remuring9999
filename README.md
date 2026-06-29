@@ -27,7 +27,4 @@
 <h1>Github stats</h1>
 <p>
   
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=remuring9999&show_icons=true&theme=tokyonight)
-  
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=remuring9999&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=remuring9999&show_icons=true&theme=tokyonight) ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=remuring9999&layout=compact&theme=tokyonight)
