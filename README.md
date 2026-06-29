@@ -1,6 +1,6 @@
 # 👋 Hi there !
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 I ❤️ <strong>Typescript</strong>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ I'm currently interested in some <strong>web development</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 ❤️ <strong>Typescript</strong>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ I'm currently interested in some <strong>Reverse Engineering</strong></p>
 
 <h1>📫 Contact me</h1>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
